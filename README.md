@@ -1,0 +1,3 @@
+Updated and generalised version of the model in https://doi.org/10.2514/1.B38784, and a bit of https://doi.org/10.2514/1.J061300, E.g. the 1D quasi-steady flow continuity equations with a boundary layer model to allow flow choking due t the growth of the displacement thickness of the boundary layer. We used the momentum integral approach for compressible turbulent boundary layers. The model is also generalised and works for both hollow and annular RDEs and can do supersonic flow so modelling nozzles and variable geometry is also a possibility with it. You can get the cross section averaged pressure, temperature, velocity, plots along the chamber as well as thrust and Isp.
+
+I set it up with the DLR RDE from https://elib.dlr.de/139570/1/Manuskript.pdf.
